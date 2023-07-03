@@ -1,5 +1,5 @@
 # Sé programar
-Entrega del trabajo práctico obligatorio Nº 1, correspondiente a la entrega de la Clase Nº 9
+Entrega del trabajo práctico obligatorio Nº 1, correspondiente a la Clase Nº 9
 
 1. Alumno: Santiago E. Pascualetto 
 2. Curso: Programación Backend
